@@ -4,7 +4,7 @@ addEventListener('load',()=>{
     document
   .getElementById('cover').style.display="none";
    showApp();
-  },2000) 
+  },3000) 
   document
   .getElementById('cover').style.display="flex";
      
