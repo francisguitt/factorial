@@ -66,11 +66,11 @@ margin-bottom: 6px;
  padding: 18px;
  border-radius: 8px;
  border: 0;
- background-color: #DC143C ;
+/* background-color: #DC143C ;*/
  outline: none;
  width: 160px;
  margin: 20px;
- font-family: 'Roboto', sans-serif;
+ font-family: 'Lato', sans-serif;
 }
 
 .Input::placeholder{
